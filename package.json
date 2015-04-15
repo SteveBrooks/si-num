@@ -1,0 +1,23 @@
+{
+  "name": "si-num",
+  "version": "0.0.0",
+  "description": "SI Number Formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stevebrooks/si-num"
+  },
+  "author": "s7evez@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevebrooks/si-num/issues"
+  },
+  "devDependencies": {
+    "async": "^0.9.0",
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  }
+}
