@@ -1,3 +1,4 @@
-// Created by sbrooks on 4/14/15.
+/*jshint node:true, expr:true, mocha:true*/
 'use strict';
 
+module.exports = require('./lib/siNum.js');
